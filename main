@@ -1,0 +1,266 @@
+-- do not run this on a serversided executor
+-- if ran on ss executor, everyone sees this
+-- thank you for using test v4
+local function RunTest()
+local msg=Instance.new("Message")
+msg.Text = "Your Executor works!"
+msg.Parent=workspace
+local function DeleteScript()
+task.wait(3)
+msg.Text="Deleting."
+task.wait(1)
+msg.Text="Deleting.."
+task.wait(1)
+msg.Text="Deleting..."
+task.wait(1)
+msg.Text="Deleting.."
+task.wait(1)
+msg.Text="Deleting."
+task.wait(.2)
+msg.Text="Deleting"
+end
+local function LetterDelete()
+msg.Text="Deletin"
+task.wait(1)
+msg.Text="Deleti"
+task.wait(0.5)
+msg.Text="Delet"
+task.wait(.3)
+msg.Text="Dele"
+task.wait(.2)
+msg.Text="Del"
+task.wait(.2)
+msg.Text="De"
+task.wait(1)
+msg.Text="D"
+task.wait(1)
+msg.Text="T"
+task.wait(.1)
+msg.Text="Th"
+task.wait(.1)
+msg.Text="Tha"
+task.wait(.1)
+msg.Text="Than"
+task.wait(.1)
+msg.Text="Thank"
+task.wait(.1)
+msg.Text="Thanks "
+task.wait(.1)
+msg.Text="Thanks F"
+task.wait(.1)
+msg.Text="Thanks Fo"
+task.wait(.1)
+msg.Text="Thanks For"
+task.wait(.1)
+msg.Text="Thanks For "
+task.wait(.1)
+msg.Text="Thanks For U"
+task.wait(.1)
+msg.Text="Thanks For Us"
+task.wait(.1)
+msg.Text="Thanks For Usi"
+task.wait(.1)
+msg.Text="Thanks For Usin"
+task.wait(.1)
+msg.Text="Thanks For Using"
+task.wait(.1)
+msg.Text="Thanks For Using T"
+task.wait(.1)
+msg.Text="Thanks For Using Th"
+task.wait(.1)
+msg.Text="Thanks For Using Thi"
+task.wait(.1)
+msg.Text="Thanks For Using This "
+task.wait(.1)
+msg.Text="Thanks For Using This S"
+task.wait(.1)
+msg.Text="Thanks For Using This Sc"
+task.wait(.1)
+msg.Text="Thanks For Using This Scr"
+task.wait(.1)
+msg.Text="Thanks For Using This Scri"
+task.wait(.1)
+msg.Text="Thanks For Using This Scrip"
+task.wait(.1)
+msg.Text="Thanks For Using This Script"
+task.wait(.1)
+msg.Text="Thanks For Using This Script!"
+task.wait(.6)
+msg.Text="S"
+task.wait(.1)
+msg.Text="Si"
+task.wait(.1)
+msg.Text="Sin"
+task.wait(.1)
+msg.Text="Sinc"
+task.wait(.1)
+msg.Text="Since "
+task.wait(.1)
+msg.Text="Since Y"
+task.wait(.1)
+msg.Text="Since Yo"
+task.wait(.1)
+msg.Text="Since You "
+task.wait(.1)
+msg.Text="Since You U"
+task.wait(.1)
+msg.Text="Since You Us"
+task.wait(.1)
+msg.Text="Since You Use"
+task.wait(.1)
+msg.Text="Since You Used "
+task.wait(.1)
+msg.Text="Since You Used T"
+task.wait(.1)
+msg.Text="Since You Used Th"
+task.wait(.1)
+msg.Text="Since You Used Thi"
+task.wait(.1)
+msg.Text="Since You Used This"
+task.wait(.1)
+msg.Text="Since You Used This Y"
+task.wait(.1)
+msg.Text="Since You Used This Yo"
+task.wait(.1)
+msg.Text="Since You Used This You "
+task.wait(.1)
+msg.Text="Since You Used This You G"
+task.wait(.1)
+msg.Text="Since You Used This You Ge"
+task.wait(.1)
+msg.Text="Since You Used This You Get "
+task.wait(.1)
+msg.Text="Since You Used This You Get I"
+task.wait(.1)
+msg.Text="Since You Used This You Get In"
+task.wait(.1)
+msg.Text="Since You Used This You Get Inf"
+task.wait(.1)
+msg.Text="Since You Used This You Get Infi"
+task.wait(.1)
+msg.Text="Since You Used This You Get Infin"
+task.wait(.1)
+msg.Text="Since You Used This You Get Infini"
+task.wait(.1)
+msg.Text="Since You Used This You Get Infinit"
+task.wait(.1)
+msg.Text="Since You Used This You Get Infinite "
+task.wait(.1)
+msg.Text="Since You Used This You Get Infinite Y"
+task.wait(.1)
+msg.Text="Since You Used This You Get Infinite Yi"
+task.wait(.1)
+msg.Text="Since You Used This You Get Infinite Yie"
+task.wait(.1)
+msg.Text="Since You Used This You Get Infinite Yiel"
+task.wait(.1)
+msg.Text="Since You Used This You Get Infinite Yield"
+task.wait(.1)
+msg.Text="Since You Used This You Get Infinite Yield!"
+task.wait(.6)
+msg.Text="H"
+task.wait(.1)
+msg.Text="Ha"
+task.wait(.1)
+msg.Text="Hav"
+task.wait(.1)
+msg.Text="Have "
+task.wait(.1)
+msg.Text="Have A "
+task.wait(.1)
+msg.Text="Have A A"
+task.wait(.1)
+msg.Text="Have A Am"
+task.wait(.1)
+msg.Text="Have A Ama"
+task.wait(.1)
+msg.Text="Have A Amaz"
+task.wait(.1)
+msg.Text="Have A Amazi"
+task.wait(.1)
+msg.Text="Have A Amazin"
+task.wait(.1)
+msg.Text="Have A Amazing "
+task.wait(.1)
+msg.Text="Have A Amazing D"
+task.wait(.1)
+msg.Text="Have A Amazing Da"
+task.wait(.1)
+msg.Text="Have A Amazing Day"
+task.wait(.1)
+msg.Text="Have A Amazing Day!"
+task.wait(.6)
+msg.Text="R"
+task.wait(.1)
+msg.Text="Re"
+task.wait(.1)
+msg.Text="Rem"
+task.wait(.1)
+msg.Text="Remo"
+task.wait(.1)
+msg.Text="Remov"
+task.wait(.1)
+msg.Text="Removi"
+task.wait(.1)
+msg.Text="Removin"
+task.wait(.1)
+msg.Text="Removing "
+task.wait(.1)
+msg.Text="Removing T"
+task.wait(.1)
+msg.Text="Removing Te"
+task.wait(.1)
+msg.Text="Removing Tes"
+task.wait(.1)
+msg.Text="Removing Test"
+task.wait(.1)
+msg.Text="Removing Teste"
+task.wait(.1)
+msg.Text="Removing Tester"
+task.wait(.1)
+msg.Text="Removing Tester."
+task.wait(1)
+msg.Text="Removing Tester.."
+task.wait(1)
+msg.Text="Removing Tester..."
+task.wait(1)
+msg.Text="Removing Tester.."
+task.wait(1)
+msg.Text="Removing Tester."
+task.wait(1)
+msg.Text="Removing Tester.."
+task.wait(1)
+msg.Text="Removing Teste..."
+task.wait(1)
+msg.Text="Removing Test.."
+task.wait(1)
+msg.Text="Removing Tes."
+task.wait(1)
+msg.Text="Removing Te.."
+task.wait(1)
+msg.Text="Removing T..."
+task.wait(1)
+msg.Text="Removin.."
+task.wait(1)
+msg.Text="Removi."
+task.wait(1)
+msg.Text="Remov.."
+task.wait(1)
+msg.Text="Remo..."
+task.wait(1)
+msg.Text="Rem.."
+task.wait(1)
+msg.Text="Re."
+task.wait(1)
+msg.Text="R"
+task.wait(.6)
+msg:Destroy()
+end
+DeleteScript()
+LetterDelete()
+end
+RunTest()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+warn("# CAUTION! If you ran this on a SS Executor everyone has seen this.")
+task.wait(1)
+print("Executor is working.")
